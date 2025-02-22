@@ -1,6 +1,7 @@
 # **UltraPOS** 🛒💳
 
 UltraPOS adalah solusi **Point of Sale (POS) modern** yang dirancang untuk berbagai jenis usaha, seperti:
+
 ✅ Minimarket\
 ✅ Kantin\
 ✅ Restoran\
