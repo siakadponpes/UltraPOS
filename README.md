@@ -38,10 +38,4 @@ php artisan key:generate
 php artisan migrate --seed
 ```
 
-> **⚠️ Peringatan:** Perintah ini akan menghapus semua tabel di database sebelum menjalankan migrasi ulang!
-
----
-
-🎉 **Setelah langkah-langkah ini, UltraPOS siap digunakan!**\
-Jika mengalami kendala, silakan laporkan melalui [Issues](https://github.com/username/repo/issues). 🚀
 
