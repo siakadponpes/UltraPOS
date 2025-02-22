@@ -12,7 +12,7 @@ Sistem ini membantu bisnis dalam **mengelola transaksi, stok barang, laporan pen
 
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan UltraPOS di server Anda.
 
-### \*\*1. Salin File Konfigurasi \*\***`.env`**
+### **1. Salin File Konfigurasi**  **`.env`**
 
 Jika file **`.env`** belum ada, buat salinannya dari **`.env.example`**:
 
